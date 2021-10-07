@@ -1,6 +1,6 @@
 {
   "repository": {
-    "name": "dev-sanity-sapper-blog",
+    "name": "dev-sanity-sveltekit",
     "owner": "sanity-io",
     "private": false
   },

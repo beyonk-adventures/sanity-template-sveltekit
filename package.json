@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "sanity-template-sapper-blog",
+  "name": "sanity-template-sveltekit",
   "scripts": {
     "build": "sanity-template build --template-values dev/template-values-production.json",
     "copy-node-modules": "npm run copy-studio-node-modules",

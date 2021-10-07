@@ -1,5 +1,5 @@
 <script context="module">
-  export async function preload({ params }) {
+  export async function load () {
     try {
       const res = await this.fetch('api/blog/all');
       const { posts } = await res.json()
